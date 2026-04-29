@@ -8,6 +8,9 @@ A browser-based tool for calibrating a camera-to-map homography matrix and visua
 
 Given a static camera image and a satellite map, you pick matching point pairs (GPS ↔ camera pixel) to compute a homography matrix **H**. Once calibrated, you can click anywhere on the map and instantly see where that GPS location appears in the camera feed — with an adaptive zoom view centred on that point.
 
+<img width="1440" height="813" alt="Screenshot 2026-04-29 at 2 23 40 pm" src="https://github.com/user-attachments/assets/663d8945-54be-4f33-a69a-abdb5e34816a" />
+
+
 ---
 
 ## Features
